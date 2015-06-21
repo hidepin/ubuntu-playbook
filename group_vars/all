@@ -1,5 +1,2 @@
-###ansible_ssh_user: root
-sudo: yes
 colon: ":"
 ntp_server: 127.0.0.1
-
