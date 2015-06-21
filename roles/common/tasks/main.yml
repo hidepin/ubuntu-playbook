@@ -9,6 +9,7 @@
     - ntp
     - zsh
     - git-svn
+    - subversion
     - ansible
     - sshpass
     - tmux
