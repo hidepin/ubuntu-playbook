@@ -15,6 +15,7 @@
     - tmux
     - fcitx-mozc
     - emacs-mozc
+    - cmigemo
 
 - name: enable services
   service: name={{item}} state=started enabled=yes
